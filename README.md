@@ -5,7 +5,7 @@
 
 ### What is the main research question of the study?
    
-1) 일반적인 Autoencoder보다 Conditional Auto Encoder이 자산배분 전략에 효과적이다.
+1) 일반적인 Autoencoder보다 Conditional Auto Encoder이 자산배분 전략에 효과적이라고 주장하고 있다.
    
 ### What research methodology did the authors employ?
    
